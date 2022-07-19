@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "./src",
+    "baseUrl": "./src", // simplifica os imports na hora de importar um componente em outro
     "target": "es5",
     "lib": [
       "dom",
