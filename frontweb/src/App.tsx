@@ -1,6 +1,7 @@
-import Home from 'pages/Home';
+import Catalog from 'pages/Home/Catalog';
 import './assets/styles/custom.scss';
 import './App.css';
+
 
 /* Alternativa de como escrever uma função.
 function App() {
@@ -16,7 +17,7 @@ function App() {
 const App = () => {
   return (
     <>
-      <Home />
+      <Catalog />
     </>
   );
 }
