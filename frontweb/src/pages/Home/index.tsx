@@ -1,6 +1,6 @@
 import { ReactComponent as MainImage } from 'assets/images/main-image.svg';
 import Navbar from 'components/Navbar';
-import ButtonIcon from 'components/Navbar/ButtonIcon';
+import ButtonIcon from 'components/ButtonIcon';
 import './styles.css';
 
 const Home = () => {

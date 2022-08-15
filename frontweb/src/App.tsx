@@ -1,4 +1,4 @@
-import Catalog from 'pages/Home/Catalog';
+import Catalog from 'pages/Catalog';
 import './assets/styles/custom.scss';
 import './App.css';
 
